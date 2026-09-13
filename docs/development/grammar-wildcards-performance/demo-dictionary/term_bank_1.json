@@ -1,0 +1,14 @@
+[
+    ["せっかく～のに", "", "", "", 0, ["One gap. A special effort had a disappointing result. Try: せっかく早く来たのに"], 0, ""],
+    ["いくら～ても", "", "", "", 0, ["One gap. The result does not change, regardless of degree or effort. Try: いくら説明しても"], 1, ""],
+    ["どんなに～ても～ない", "", "", "", 0, ["Two gaps. Even a strong degree or effort does not produce the result. Try: どんなに頑張っても合格できない"], 2, ""],
+    ["費用が～かかる", "", "", "", 0, ["Long-gap example about cost. Try: 費用が予想よりかなり多くかかる"], 3, ""],
+    ["決して～ない", "", "", "", 0, ["Strong negation. Balanced quoted punctuation can stay inside the gap. Try: 決して「無理だ。」とは言わない"], 4, ""],
+    ["たとえ～ても", "", "", "", 0, ["Concession for a hypothetical condition. Try: たとえ雨が降っても"], 5, ""],
+    ["しか～ない", "", "", "", 0, ["Restriction: nothing except the marked choice. Start the lookup at しか. Try: しか食べられない"], 6, ""],
+    ["だけでなく～も", "", "", "", 0, ["Adds another item: not only one thing, but also another. Start at だけ. Try: だけでなく英語も"], 7, ""],
+    ["前～中～後", "", "", "", 0, ["Mechanical two-gap example. Try: 前から中を通って最後は後"], 8, ""],
+    ["前~後", "", "", "", 0, ["Literal ASCII tilde. This is not a wildcard."], 9, ""],
+    ["前〜後", "", "", "", 0, ["Literal wave dash U+301C. This is not a wildcard."], 10, ""],
+    ["費用", "ひよう", "", "", 0, ["Ordinary term included to show that normal dictionary lookup still works."], 11, ""]
+]

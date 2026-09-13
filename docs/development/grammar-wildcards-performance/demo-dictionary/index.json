@@ -1,0 +1,7 @@
+{
+    "title": "Yomitan Grammar Wildcards Demo",
+    "format": 3,
+    "revision": "2026-09-13",
+    "sequenced": true,
+    "description": "Small demo dictionary for the optional Japanese grammar wildcard feature. Full-width tilde U+FF5E marks a non-empty interior gap."
+}
